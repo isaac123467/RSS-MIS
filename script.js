@@ -1,6 +1,6 @@
 
 const USER_DATABASE = {
-    "25676384384": "252637484",
+    "Mrs A Lopez": "ALZ",
 
 };
 
@@ -132,4 +132,5 @@ class SchoolMISLoginForm {
 // Initialize the form when DOM is loaded
 document.addEventListener('DOMContentLoaded', () => {
     new SchoolMISLoginForm();
+
 });
