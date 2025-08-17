@@ -1,6 +1,6 @@
 
 const USER_DATABASE = {
-    "Mrs A Lopez": "ALZ",
+    "Mrs A Lopez": "12345678",
 
 };
 
@@ -134,3 +134,4 @@ document.addEventListener('DOMContentLoaded', () => {
     new SchoolMISLoginForm();
 
 });
+
